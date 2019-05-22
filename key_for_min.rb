@@ -11,7 +11,7 @@ def key_for_min_value(name_hash)
      low_key = key
     end
   end
-  low_key
+ puts  low_key
 end
 
 key_for_min_value(name_hash)
